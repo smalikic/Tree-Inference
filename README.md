@@ -1,4 +1,4 @@
-# Tree-Inference
+# Tree Inference on 24 Single-Cell–Derived Melanoma Sublines
 
 This repository contains the data and source code (Python code in a Jupyter Notebook) used to analyze 24 single-cell–derived bulk whole-exome sequenced sublines. The notebook includes mutation data preprocessing, phylogenetic tree inference, C19-doublet analysis, and precise locations of 23 mutations potentially affected by loss of heterozygosity (LOH) events in sublines C2 and C5.
 
