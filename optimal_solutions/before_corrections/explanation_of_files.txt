@@ -1,0 +1,5 @@
+1. D.tsv is a noisy genotype matrix. This is the matrix obtained using the original sequencing dataset (i.e., before correcting for the doublet in C19 and potential LOH events affecting C2 and C5).
+
+2. E-fp_0.001-fn_0.075.tsv is the noise-corrected genotype matrix. It is conflict-free and used to build and draw the tree of tumor progression. Note that this is the most likely conflict-free matrix identified during the tree-building step.
+
+3. tree-fp_0.001-fn_0.075.pdf is the corresponding tree of tumor progression.
