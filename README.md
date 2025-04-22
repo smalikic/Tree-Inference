@@ -4,4 +4,7 @@ This repository contains the data and source code (Python code in a Jupyter Note
 
 For complete details (including documentation), please refer to the Jupyter Notebook [Tree_Inference_Code.ipynb](https://github.com/smalikic/Tree-Inference/blob/main/Tree_Inference_Code.ipynb), located in the root directory of this repository.
 
-> **Note:** Before running the notebook, ensure that all files inside the `input/vcf_files` directory are uncompressed (i.e., unzip all `.zip` archives).
+
+> **Note 1:** Before running the notebook, ensure that all files inside the `input/vcf_files` directory are uncompressed (i.e., unzip all `.zip` archives).
+
+> **Note 2:** Please note that the total size of this repository currently exceeds 3 GB. After completing the decompression steps described above, you will need at least 12 GB of available local storage to accommodate the full contents of the repository.
