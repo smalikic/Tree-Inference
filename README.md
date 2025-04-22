@@ -6,8 +6,8 @@ This repository contains the data and source code (Python code in a Jupyter Note
 
 > **Note 2:** Please note that the total size of this repository currently exceeds 3 GB. After completing the decompression steps described above, you will need at least 12 GB of available local storage to accommodate the full contents of the repository.
 
-# Details of filtering/correcting somatic variant calls and reconstructing trees of tumor progression on 24 sublines dataset
-=====================================================================================================
+# Details of filtering/correcting somatic variant calls and inferring trees of tumor progression
+===============================================================
 
 Below are some details about filtering and correcting somatic variant calls obtained using the existing somatic mutation callers (see Supplementary Section D of the manuscript for details of data generation and somatic mutations calling).
 
